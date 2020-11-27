@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">info_BAUST</string>
+    <string name="title_activity_gpa">Gpa</string>
+    <string name="title_activity_routine">Routine</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_section1" />
+    <string name="title_section2" />
+    <string name="title_section3" />
+    <string name="title_section4" />
+    <string name="title_section5" />
+    <string name="title_activity_routine_main">Routine_main</string>
+</resources>
